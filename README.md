@@ -33,4 +33,4 @@ This is a simple Lua-based game using the Love2D framework. The objective of the
 
 ## Example 
 
-![Starting the game](images/benign%20connections.png)  
+![Starting the game](image.png)  
